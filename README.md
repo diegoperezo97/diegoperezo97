@@ -1,4 +1,4 @@
-### Hi there 👋
+![Picture1](https://user-images.githubusercontent.com/65054637/173421929-72cad1db-9030-4489-9fca-d7cc90ee8fc8.png)
 
 <!--
 **diegoperezo97/diegoperezo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![unnamed](https://user-images.githubusercontent.com/65054637/164315505-ea77b85c-6ff2-43ca-a7a6-7d4db92cfdb6.png)
