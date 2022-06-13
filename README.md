@@ -1,4 +1,5 @@
-![Picture1](https://user-images.githubusercontent.com/65054637/173421929-72cad1db-9030-4489-9fca-d7cc90ee8fc8.png)
+![Picture2](https://user-images.githubusercontent.com/65054637/173422372-e0760905-982e-4c46-bece-bc7ecaeed3a1.png)
+
 
 <!--
 **diegoperezo97/diegoperezo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
